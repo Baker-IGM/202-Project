@@ -1,4 +1,4 @@
-# Project _PROJECT_NAME_
+# Project _NAME_
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
