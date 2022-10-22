@@ -1,11 +1,13 @@
-# Project PROJECT_NAME
+# Project _PROJECT_NAME_
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
+_REPLACE OR REMOVE EVERYTING BETWEEN "\_"_
+
 ### Student Info
 
--   Name: YOUR NAME
--   Section: ##
+-   Name: _YOUR NAME_
+-   Section: _##_
 
 ### Description
 
